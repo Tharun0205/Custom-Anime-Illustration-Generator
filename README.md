@@ -20,7 +20,10 @@ By visually chaining these nodes, the workflow supports image-to-image processin
 ![image](https://github.com/user-attachments/assets/dbb56b2e-1999-411c-8454-9a63253ee4fb)
 
 Input Scriblled image:
-![image](https://github.com/user-attachments/assets/a447a060-6cf1-494a-99bd-96e09e991ba9)
+<img src="https://github.com/user-attachments/assets/a447a060-6cf1-494a-99bd-96e09e991ba9" width="250" height="250"/>
+Output Image:
+<img src="https://github.com/user-attachments/assets/2426d47c-5116-47e1-aef9-7ba52c812eea" width="250" height="250"/>
+
 
 
 

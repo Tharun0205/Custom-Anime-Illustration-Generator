@@ -19,6 +19,8 @@ By visually chaining these nodes, the workflow supports image-to-image processin
 ![image](https://github.com/user-attachments/assets/ec976ee9-68a8-45f2-b9cc-0dc1de3e0a3f)
 ![image](https://github.com/user-attachments/assets/dbb56b2e-1999-411c-8454-9a63253ee4fb)
 
+Input Scriblled image:
+![image](https://github.com/user-attachments/assets/a447a060-6cf1-494a-99bd-96e09e991ba9)
 
 
 
